@@ -1,0 +1,12 @@
+TypeScript Compiler
+-TypeScript is transpiled into JavaScript using a compiler.
+
+Installing Globally
+-Installing TypeScript globally means adding the tsc command to your system PATH so it is available from any folder.
+
+```
+npm install -g typescript
+tsc -v
+
+```
+
